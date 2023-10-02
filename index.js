@@ -37,7 +37,7 @@ function count() {
 }
 
 function test() {
-	console.log("Let's test your programming knowledge.");
+    console.log("Let's test your programming knowledge.");
     console.log("Why do we use methods?");
     console.log("1. To repeat a statement multiple times.");
     console.log("2. To decompose a program into several small subroutines.");
